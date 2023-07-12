@@ -1,0 +1,17 @@
+{
+    "projects": [
+        {
+            "img": "jara.svg",
+            "title": "volunteer",
+            "time": "jul 2019 - present",
+            "description": "volunteer projects"
+        },
+        {
+            "img": "css.svg",
+            "title": "css",
+            "time": "jul 2019 - present",
+            "description": "projects"
+        }
+    ]
+
+}
