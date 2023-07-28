@@ -4,7 +4,7 @@ const Header = () => {
     // import navbar componenent (link the profile page in the componenet) 
     <div className="header-container">
       <div className="logo-container">
-        CT
+        Chau Ta
       </div>
       <div className="button-container">
         <a className="button">ABOUT</a>
