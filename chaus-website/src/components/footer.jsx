@@ -27,7 +27,6 @@ const Footer = () => {
                             <img className='social-media-icon' src={email} alt='email' />
                             <div>chauta.tkh@gmail.com</div>
                         </a>
-                        
                     </div>
                 </div>
             </div>

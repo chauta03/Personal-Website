@@ -20,10 +20,18 @@
     font-weight: 300;
 }
 
+
 button {
     position: relative;
     letter-spacing: 0.5px;
     padding: 0 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.button:link {
+    text-decoration: none;
+    color: black;
 }
 .button::after{
     content: "";
@@ -39,3 +47,4 @@ button {
     width: 100%;
     transition: width 0.4s linear;
 }
+
