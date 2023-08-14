@@ -1,0 +1,57 @@
+.exp-container {
+    text-align: left;
+    display: flex;
+    width: 529px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 10px 83px;
+    flex-wrap: wrap;
+}
+
+.exp-position {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.exp-time {
+    font-size: 16px;
+}
+
+.exp-des {
+    font-size: 18px;
+}
+.about-pic {
+    height: 70vh;
+    width: 70%;
+    background-color: aliceblue;
+    display: flex;
+    text-align: left;
+    gap: 10%;
+    padding: 10% 15% 10% 15%;
+}
+
+.me-pic {
+    max-height: 100%;
+    max-width: 400px;
+}
+
+.about-text {
+    display: flex;
+    flex-direction: column;
+    gap: 8%;
+}
+.about-text1 {
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.about-text2 {
+    line-height: 1.5;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+b {
+    font-weight: 800;
+}

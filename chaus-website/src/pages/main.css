@@ -2,6 +2,6 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 0px 60px;
+    padding: 0px var(--common-padding);
     gap: 30px;
 }
