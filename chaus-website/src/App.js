@@ -14,6 +14,7 @@ function App() {
         <Routes>
           <Route index element={<Main />} />
           <Route path="about" element={<About />} />
+          <Route path="/" element={<Main />} />
         </Routes>
         <Footer />
       </BrowserRouter>
