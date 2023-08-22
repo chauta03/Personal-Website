@@ -14,7 +14,7 @@ function App() {
         <Routes>
           <Route index element={<Main />} />
           <Route path="about" element={<About />} />
-          <Route path="/" element={<Main />} />
+          <Route path="/chaus-webste" element={<Main />} />
         </Routes>
         <Footer />
       </BrowserRouter>

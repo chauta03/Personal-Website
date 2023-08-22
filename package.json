@@ -1,7 +1,7 @@
 {
   "name": "chaus-website",
   "version": "0.1.0",
-  "homepage": "https://chauta03.github.io/chauta03.github.io",
+  "homepage": "https://chauta03.github.io/chaus-website",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
