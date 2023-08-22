@@ -9,15 +9,18 @@ import About from './pages/about'
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
-        <Header />
-        <Routes>
-          <Route index element={<Main />} />
-          <Route path="about" element={<About />} />
-          <Route path="chaus-website" element={<Main />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
+      <div className="bg">
+        <BrowserRouter>
+          <Header />
+          <Routes>
+            <Route index element={<Main />} />
+            <Route path="about" element={<About />} />
+            <Route path="chaus-website" element={<Main />} />
+          </Routes>
+          <Footer />
+        </BrowserRouter>
+      </div>
+
 
     </div>
   );

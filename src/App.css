@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  position: relative;
+  min-height: 100vh;
 }
 
+.bg {
+  padding-bottom: 300px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

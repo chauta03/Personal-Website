@@ -1,11 +1,11 @@
 .project-container {
-    width: 49%;
-    min-width: 300px;
+    width: 48%;
+    min-width: 250px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 2px;
-    padding-bottom: 30px;
+    padding-bottom: 80px;
 }
 
 .project-image {
@@ -17,6 +17,7 @@
 .project-title {
     font-size: 23px;
     font-weight: bold;
+    padding: 30px 0px 20px 0px;
 }
 
 .project-skills {
@@ -30,7 +31,7 @@
 .main-projects-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 2%;
+    gap: 4%;
 }
 
 @media screen and (max-width: 700px) {
