@@ -16,7 +16,7 @@ const Header = () => {
         {/* <Link to='projects' className="button" style={{ color:'black'}}>
           PROJECTS
         </Link> */}
-        <a href="https://drive.google.com/file/d/1wqyyXZmoXeLTk9giEtWCVXwMavGf2jx0/view?usp=sharing" className='button' target="resume" rel="noopener noreferrer" style={{ color: 'black' }}>
+        <a href="https://drive.google.com/file/d/1Yi5X5wtittnBsjQxMERBc-lJEdnSWwKT/view?usp=sharing" className='button' target="resume" rel="noopener noreferrer" style={{ color: 'black' }}>
           RESUME
         </a>
       </div>
