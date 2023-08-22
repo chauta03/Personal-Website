@@ -5,3 +5,9 @@
     padding: 0px var(--common-padding);
     gap: 30px;
 }
+
+@media screen and (max-width: 1000px) {
+    .Main {
+        padding: 0px 8%;
+    }
+}
