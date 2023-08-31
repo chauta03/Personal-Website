@@ -27,7 +27,13 @@ const Project = (props) => {
 
 const Projects = () => {
   const projects = [
-    
+    {
+      image: css1,
+      title: 'Compute Science Society',
+      skills: 'TypeScipt, Nodes, HTML/CSS, Figma',
+      description: 'A website for the first CS community at Kalamazoo College with the hope of bringing tech industry nearer to students.',
+      link: 'https://kzoocss.org/'
+    },
     {
       image: jara,
       title: 'Jara Unit',
