@@ -32,7 +32,7 @@ const About = () => {
               I’m a Vietnamese international student at Kalamazoo College. I will graduate in <b>2025</b> with B.A of <b>Computer Science and Mathematics</b>. I’m going to attend <b>Budapest Semesters in Mathematics</b> from August 2023 to January 2024.
             </div>
             <div>Interested in Math and Tech, I enjoy problem-solving and passionate about automatic and fast algorithms.</div>
-            <div>In my work, I find the combination of tech solutions and human capabilities. I am interested in making <b>positive</b> impacts and acquire knowledge that benefit the community. I have experience in <b>Full Stack Development, Game Development, and AI</b>, which has helped me to develop strong communication and collaboration skills while working in cross-field teams.</div>
+            <div>In my work, I find the combination of tech solutions and human capabilities. I am interested in making <b>positive</b> impacts and acquire knowledge that benefit the community. I have experience in <b>Full Stack Development, Game Development, and AI</b>, which has helped me to develop <b>strong communication and collaboration skills</b> while working in cross-field teams.</div>
           </div>
         </div>
       </div>
