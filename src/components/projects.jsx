@@ -69,6 +69,13 @@ const Projects = () => {
       description: 'Online social media platform for images and videos sharing.',
       link: 'https://fotoflix.org/'
     },
+    {
+      image: divisorgame,
+      title: 'Divisor Game',
+      skills: 'Python, React, HTML/CSS, Firebase, Figma',
+      description: 'Math-based divisor game.',
+      link: ''
+    },
   ];
 
   return (
