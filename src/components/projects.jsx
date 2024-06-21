@@ -5,6 +5,7 @@ import jara from '../images/projects/jara.svg';
 import mily from '../images/projects/mily.svg';
 import fotoflix from '../images/projects/fotoflix.svg';
 import ocean from '../images/projects/ocean.svg';
+import divisorgame from '../images/projects/divisorgame.jpg';
 
 const Project = (props) => {
   return (
