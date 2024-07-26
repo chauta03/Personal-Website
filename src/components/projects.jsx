@@ -19,9 +19,9 @@ const Project = (props) => {
       <div className='project-skills'>
         {props.skills}
       </div>
-      <div className='project-description'>
+      {/* <div className='project-description'>
         {props.description}
-      </div>
+      </div> */}
     </div>
   )
 }

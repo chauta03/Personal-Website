@@ -1,11 +1,21 @@
 .project-container {
-    width: 48%;
+    width: 30%;
     min-width: 250px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 2px;
-    padding-bottom: 80px;
+    margin-bottom: 80px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: white;
+    opacity: 1;
+    transition: opacity 0.8s;
+}
+
+.project-container:hover {
+    /* transition: .75s; */
+    opacity: 70%;
 }
 
 .project-image {
@@ -15,16 +25,20 @@
 }
 
 .project-title {
-    font-size: 23px;
+    width: 100%;
+    font-size: 21px;
     font-weight: bold;
     padding: 30px 0px 20px 0px;
+    
 }
 
 .project-skills {
     font-size: 13px;
-    
+    width: 100%;
 }
+
 .project-description {
+    width: 100%;
     text-align: left;
     padding-top: 8px;
 }
