@@ -6,7 +6,7 @@ const Intro = () => {
         Bring impacts to life
       </div>
       <div className="text2">
-        I work on purpose-driven projects as software engineer that have positive impacts on the companies. <a>Currently looking for an internship of Summer 2024.</a>
+        I work on purpose-driven projects as software engineer that have positive impacts on the companies. <a>Currently looking for an internship of Summer 2025.</a>
       </div>
     </div>
   );
