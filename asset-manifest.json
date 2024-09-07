@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chaus-website/static/css/main.a2f90368.css",
+    "main.js": "/chaus-website/static/js/main.8c290f47.js",
+    "static/js/787.aa82cb98.chunk.js": "/chaus-website/static/js/787.aa82cb98.chunk.js",
+    "static/media/jara.svg": "/chaus-website/static/media/jara.4d5df8c589e0e70cdd07226a096763e5.svg",
+    "static/media/css1.svg": "/chaus-website/static/media/css1.7508cd67c0ec79d74ad9902f486a2f15.svg",
+    "static/media/kit.svg": "/chaus-website/static/media/kit.d335ccd418dad105f9799963be3398f4.svg",
+    "static/media/me.jpeg": "/chaus-website/static/media/me.1f035d02239f08649663.jpeg",
+    "static/media/mily.svg": "/chaus-website/static/media/mily.b9bd1b157f8084817af3b73c45078482.svg",
+    "static/media/ocean.svg": "/chaus-website/static/media/ocean.25e6dd6ed45f29f04f0fcc701a844663.svg",
+    "static/media/divisorgame.jpg": "/chaus-website/static/media/divisorgame.02a696f4d342aec89e5e.jpg",
+    "static/media/Lato-Black.ttf": "/chaus-website/static/media/Lato-Black.57dee8aface5572f9101.ttf",
+    "static/media/github.svg": "/chaus-website/static/media/github.91931f8720fe594d3f4b3fb7f5dccd0c.svg",
+    "static/media/fotoflix.svg": "/chaus-website/static/media/fotoflix.fd2e1c22137b09e7307ef7690e89dbb0.svg",
+    "static/media/email.svg": "/chaus-website/static/media/email.34f94ba754bc5efa84f250fbf13832cb.svg",
+    "static/media/linkedin.svg": "/chaus-website/static/media/linkedin.0fdec7e24ea6b217215441ff16740861.svg",
+    "index.html": "/chaus-website/index.html",
+    "main.a2f90368.css.map": "/chaus-website/static/css/main.a2f90368.css.map",
+    "main.8c290f47.js.map": "/chaus-website/static/js/main.8c290f47.js.map",
+    "787.aa82cb98.chunk.js.map": "/chaus-website/static/js/787.aa82cb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f90368.css",
+    "static/js/main.8c290f47.js"
+  ]
+}
