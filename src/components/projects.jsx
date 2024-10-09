@@ -6,6 +6,7 @@ import mily from '../images/projects/mily.svg';
 import fotoflix from '../images/projects/fotoflix.svg';
 import ocean from '../images/projects/ocean.svg';
 import divisorgame from '../images/projects/divisorgame.jpg';
+import napas from '../images/projects/napas.webp'
 
 const Project = (props) => {
   return (
@@ -34,6 +35,13 @@ const Projects = () => {
       skills: 'TypeScipt, Nodes, HTML/CSS, Figma',
       description: 'A website for the first CS community at Kalamazoo College with the hope of bringing tech industry nearer to students.',
       link: 'https://kzoocss.org/'
+    },
+    {
+      image: napas,
+      title: 'NAPAS - National Payment Corporation of Vietnam',
+      skills: 'C#, PostgreSQL, Oracle',
+      description: 'Integrated a fraud detection application to identify and flag suspicious activities, enhancing security and minimizing potential risks.',
+      link: 'https://en.napas.com.vn/'
     },
     {
       image: jara,
